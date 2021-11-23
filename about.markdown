@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+体はBuildで出来ている  
+血潮は.oで心は.c  
+幾たびのSIを越えて不敗  
+ただ一度のDegradeもなく  
+ただ一度のPull requestもなし  
+Threadはここに独り  
+Buildの丘でMakeを鍛つ  
+ならば我が.EXEに意味は不要ず  
+この体は無限のBuildで出来ていた  
