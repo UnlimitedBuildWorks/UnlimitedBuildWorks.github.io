@@ -59,7 +59,7 @@ At the time, the program implemented the following cutting-edge technologies.
 
 [Here](https://github.com/UnlimitedBuildWorks/EXRAYtracer) is the Github repository.
 
-![](/assets/pic4-1.png)  
+![Example of a robot model rendered by ray tracing.](/assets/pic4-1.png)  
 *Example of a robot model rendered by ray tracing.*
 
 ![](/assets/pic4-2.png)  
