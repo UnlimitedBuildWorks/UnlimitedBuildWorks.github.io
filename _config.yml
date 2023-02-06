@@ -52,6 +52,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include:
-  - .well-known/nostr.json
+include: [".well-known/"]
 
