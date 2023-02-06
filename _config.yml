@@ -53,5 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 include:
-  - .well-known/
+  - .well-known/nostr.json
 
