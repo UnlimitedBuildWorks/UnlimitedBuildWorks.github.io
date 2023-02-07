@@ -21,6 +21,9 @@ This is a master's thesis that summarizes my research on the application of spat
 
 <iframe width="638" height="1135" src="https://www.youtube.com/embed/eDkVJdibLJ0" title="mocopi IMU demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+***
+<br/>
+
 # 3. [Pseudo-3D display using a hemispherical display (in Japanese)](https://engineering.mercari.com/blog/entry/2018-12-11-120000/)
 
 This article summarizes how to develop a pseudo-3D display Unity program using the hemispherical display type WORLDEYE from Gakken and a depth sensor (RealSense D435).
