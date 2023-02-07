@@ -19,8 +19,7 @@ This is a master's thesis that summarizes my research on the application of spat
 
 # 2. Demonstration of 'mocopi' device as angular (IMU) sensor w/o Sony's SDK.
 
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/eDkVJdibLJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="638" height="1135" src="https://www.youtube.com/embed/eDkVJdibLJ0" title="mocopi IMU demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 3. [Pseudo-3D display using a hemispherical display (in Japanese)](https://engineering.mercari.com/blog/entry/2018-12-11-120000/)
 
